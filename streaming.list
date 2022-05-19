@@ -1,12 +1,5 @@
 # Streaming Media
 
-# (Live)
-# > Twitch
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
-
 # > Spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
