@@ -1,9 +1,5 @@
-# Streaming Media
-
-# > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
-
 # > Amazon Prime Video
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
