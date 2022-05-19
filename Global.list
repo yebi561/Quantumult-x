@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avg.com
-DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,bbc.com
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
@@ -65,11 +64,6 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,wordpress.com
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,bloomberg.de
-DOMAIN-SUFFIX,bloombergview.com
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -108,10 +102,6 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
-# > Discord
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
@@ -165,9 +155,6 @@ DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
-# > Pinterest
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-KEYWORD,.pinterest.
 # > pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
